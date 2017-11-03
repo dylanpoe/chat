@@ -2,21 +2,24 @@
 a chat demo implemented by refresh、longpolling、websocket
 
 
-##效果图
+## 效果图
 
-**选择页**
+### 首页，选择
+
 
 ![首页](doc/image/index.png)
 
-**Refresh**
+### Refresh
+
 
 ![refresh](doc/image/refresh.png)
 
-**Longpolling**
+### Longpolling
+
 
 ![longpolling](doc/image/longpolling.png)
 
-**Websocket**
+### Websocket
 
 ![websocket](doc/image/websocket.png)
 
